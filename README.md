@@ -3,15 +3,15 @@
 ## Valores
 
 **P = número de letras de tu primer apellido**
-* P = 9 (Hernández)
+* P = `9 (Hernández)`
 
 **Número de pedidos**
 * N = 20 + P
-* N = 20 + 9 = **29 pedidos**
+* N = 20 + 9 = `29 pedidos`
 
 **Número de consumidores**
 * C = 2 + (P % 3)
-* C = 2 + (9 % 3) = **2 consumidores**
+* C = 2 + (9 % 3) = `2 consumidores`
 
 **Capacidad de la cola**
 * Capacidad = 3
@@ -38,9 +38,13 @@
 * Parte A: 
   * javac -d out src/ParteA.java
   * java -cp out ParteA
-  * Para realizar pruebas del funcionamiento solamente se debe cambiar los valores de las constantes NUMERO_PEDIDOS y NUMERO_HILOS y darle al Play o usar los comandos anteriormente citados.
+  * Para realizar pruebas del funcionamiento solamente se debe cambiar los valores de las constantes `NUMERO_PEDIDOS` y `NUMERO_HILOS` y darle al Play o usar los comandos anteriormente citados.
 
 * Parte B:
+  * javac -d out src/ParteB.java 
+  * java -cp out ParteB
+
+* Parte C:
 
 
 

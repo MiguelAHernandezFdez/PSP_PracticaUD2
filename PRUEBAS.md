@@ -18,3 +18,24 @@ He realizado unos pruebas cambiando los valores de N (NUMERO_PEDIDOS) y C (NUMER
 Como se puede apreciar en los resultados de las pruebas los rangos se reparten bien y el total coinciden.
 
 # Parte B
+
+En esta Parte no hay ningún valor que cambiar para realizar pruebas, simplemente debería de salir los estados y mensajes según el código:
+
++ Antes de arrancar: `NEW` 
++ Tras llegar a la pausa inicial: `WAITING` 
++ Pedido 1 del Revisor-1 
++ Pedido 2 del Revisor-1 
++ Pedido 3 del Revisor-1 
++ Pedido 4 del Revisor-1 
++ Pedido 5 del Revisor-1 
++ Después de reanudar: `TIMED_WAITING` 
++ Tras solicitar la pausa: `TIMED_WAITING` 
++ Después de volver a pausar: `WAITING`  
++ Pedido 6 del Revisor-1 
++ Pedido 7 del Revisor-1 
++ Pedido 8 del Revisor-1 
++ Trabajador interrumpido. 
++ Trabajador finalizado. 
++ Estado final: `TERMINATED`
+
+# Parte C
