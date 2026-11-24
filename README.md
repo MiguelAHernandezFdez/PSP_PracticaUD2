@@ -38,7 +38,7 @@
 * Parte A: 
   * javac -d out src/ParteA.java
   * java -cp out ParteA
-  * Para realizar pruebas del funcionamiento solamente se debe cambiar los valores de las constantes NUMERO_PEDIDOS e NUMERO_HILOS y darle al Play o usar los comandos anteriormente citados.
+  * Para realizar pruebas del funcionamiento solamente se debe cambiar los valores de las constantes NUMERO_PEDIDOS y NUMERO_HILOS y darle al Play o usar los comandos anteriormente citados.
 
 * Parte B:
 
